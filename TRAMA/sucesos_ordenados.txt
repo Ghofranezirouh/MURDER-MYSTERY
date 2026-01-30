@@ -1,0 +1,52 @@
+Sucesos ordenados (guía funcional para el juego)
+
+Acto 1 — Introducción e interacción (zona común)
+1) Noche de tormenta en la Taberna del Dragón Tormentoso. El gremio se reúne para “celebrar” un éxito.
+2) Arvel Blackwell actúa como anfitriona, pero insinúa que hay un traidor y que “esta noche se acaba el juego del tesoro”.
+3) Cada personaje cumple su misión de Acto 1 (para desbloquear su pista del Acto 2):
+   - Arvel: conversar a solas con Garrick y dejarle caer que tiene pruebas.
+   - Garrick: preparar la confusión y desaparecer antes de la alarma.
+   - Pagliacci: descubrir quién se llama o se apellida con “P”.
+   - Donato: conseguir que Garrick abra el despacho o le permita ver cuentas.
+   - Hortensia: ofrecer té a Arvel y dejar su taza con hierbas en la zona común.
+   - Puntifina: repartir su tarjeta con firma y conseguir un cliente.
+   - Sybilla: vender “pociones” a al menos dos personas sin ser desenmascarada.
+   - Curtis: conseguir que alguien le perdone parte de su deuda o le prometa una actuación.
+   - Dicky: evitar que Tripón mencione su lío en público.
+   - Dimby: conseguir que Sybilla lo apunte en su lista de clientes para “volver a ser gnomo”.
+   - Selaliao: robar una pulsera de Arvel.
+   - Sir Cumferencia: lograr que alguien lo reconozca como maestro.
+   - Tripón: gritar que el mundo acabará cuando salgan por la alarma.
+   - Naldopoulos: hacer jurar lealtad al “Reino” a al menos una persona.
+
+Acto 2 — La falsa alarma y el asesinato
+4) Suena una alarma de incendio; alguien grita que hay fuego.
+5) Arvel ordena salir a todos. En la conmoción, Garrick desaparece “un momento” y separa a Arvel.
+6) Garrick lleva a Arvel a un cuarto de armarios y la apuñala con una daga ornamentada (la réplica que mandó hacer). La escena incluye:
+   - Una nota arrugada en la mano de Arvel (falsa, para incriminar al monje).
+   - Una taza de té vacía con hierbas (red herring que apunta a Hortensia).
+7) Garrick regresa a la zona común fingiendo sorpresa: “¿qué ha pasado? estaba en el baño”.
+8) Se descubre que no hay incendio. Vuelven dentro y notan que Arvel ha desaparecido.
+9) Buscan el cuerpo y lo encuentran en el cuarto de armarios con la puñalada en la espalda.
+10) Cada jugador recibe su pista desbloqueada y comienzan las acusaciones.
+
+Acto 2 — Investigación
+11) Se revelan pistas físicas, verbales y circunstanciales:
+   - Daga con iniciales S.L. (desgaste, posible réplica).
+   - Nota falsa atribuida a Tripón.
+   - Restos de belladona del jardín.
+   - Taza de té con hierbas de Hortensia.
+   - Hoja de cuentas arrancada o discrepancias en el libro mayor.
+12) En algún punto aparece una tarjeta/llave que abre el despacho de Garrick.
+13) En el despacho se encuentran guantes con tierra y el libro de cuentas manipulado.
+14) Naldopoulos en el Acto 2 confiesa “haber sido él” e inventa teorías para distraer.
+
+Acto 3 — Acusación y revelación
+15) Se discuten motivos y coartadas. El foco vuelve a:
+   - Malversación y monedas falsas.
+   - Donaciones con sello “P” de Garrick Paglio.
+   - Replicas de la daga y acceso a la oficina.
+   - Coartada débil de Garrick durante la alarma.
+16) Se reconstruye la secuencia real: alarma falsa → separación de Arvel → asesinato → regreso fingido.
+17) Con las pruebas contables y la réplica de la daga, Garrick queda expuesto.
+18) Resolución final: confesión o desenmascaramiento, cierre del misterio y consecuencias para el gremio.

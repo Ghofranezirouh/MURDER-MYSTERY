@@ -1,138 +1,213 @@
 1. Premisa
-En una noche de tormenta en la Taberna del Dragón Tormentoso, el gremio celebra un “éxito” que en realidad encubre una acusación: Arvel Blackwell ha descubierto malversación del tesoro y planea desenmascarar al traidor. El juego comienza con brindis, rivalidades y secretos a punto de estallar. En el primer apagón provocado por un trueno, Arvel aparece asesinada en su oficina. Todos tienen motivos, casi todos mienten, y el verdadero culpable es Garrick, el intendente, que necesita ocultar su desfalco. Lo que está en juego es el futuro del gremio, la reputación de los presentes… y varios secretos sucios.
+En una noche de tormenta en la Taberna del Dragón Tormentoso, el gremio celebra un “éxito” que en realidad encubre una acusación: Arvel Blackwell ha descubierto malversación del tesoro y planea desenmascarar al traidor. El juego comienza con brindis, rivalidades y secretos a punto de estallar en una zona común. De pronto suena una alarma de incendio; alguien grita que hay fuego. Arvel, alarmada, pide a todos salir. En la conmoción, Garrick —que había desaparecido un poco antes— separa a Arvel y la lleva a un cuarto de armarios donde la mata. Luego aparece fuera, fingiendo sorpresa (“¿qué ha pasado? estaba en el baño”). Poco después descubren que no había fuego, vuelven dentro y notan que Arvel ha desaparecido. Buscan y encuentran su cuerpo con una puñalada en la espalda, una taza de té vacía con hierbas y una nota arrugada en la mano. Ahí cada jugador recibe su primera pista y comienzan las acusaciones. En algún punto, una tarjeta abre el despacho de Garrick, donde se hallan guantes, cuentas y más pruebas. El verdadero culpable es Garrick, el intendente, que necesita ocultar su desfalco. Lo que está en juego es el futuro del gremio, la reputación de los presentes… y varios secretos sucios.
+
+Ambientación y tono
+- Época y lugar: taberna de un gremio medieval en medio de una tormenta, la Taberna del Dragón Tormentoso.
+- Tono: noir cómico oscuro y absurdo (intriga seria con humor muy humano).
+- Contexto previo: reunión de celebración que en realidad es una trampa social; Arvel insinúa que “esta noche se ocupará del traidor”.
+- Estilo de juego: presencial, inmersivo, sin magia real (todo son humanos con ambición, celos y traición).
+
+Estructura en tres actos (3–4 horas)
+- Acto 1 (introducción/investigación): los personajes se presentan, cumplen su misión inicial y se preparan tensiones. Se activa la falsa alarma.
+- Acto 2 (crimen e investigación): hallazgo del cuerpo, entrega de pistas y primeras acusaciones.
+- Acto 3 (acusación/revelación): debate final, desenlace y confesión del asesino.
 
 2. El crimen
 - Víctima: Arvel Blackwell, maestra del gremio. Importa porque controlaba el tesoro, la reputación del gremio y conocía secretos comprometedores.
-- Momento y lugar: medianoche, durante un breve apagón por la tormenta. Oficina privada adyacente al salón principal.
+- Momento y lugar: durante la falsa alarma de incendio; cuarto de armarios cercano a la zona común.
 - Método: puñalada única en la espalda con una daga ornamentada (forjada por Puntifina, regalo antiguo a Arvel).
-- Lo que parece: crimen pasional durante el caos, con indicios que apuntan a una conspiración del monje hereje (nota amenazante en el bolsillo) o a una bruja/pseudomaga (restos de “poción” derramada y olor a incienso).
-- Lo que realmente pasó: Garrick, intendente del gremio, aprovechó el apagón para entrar, apuñalar a Arvel y sembrar falsas pistas: la nota “del monje”, restos de belladona del jardín (para incriminar a Hortensia), y un frasco con mezcla fraudulenta de “poción” de Sybilla. Su móvil es financiero: Arvel descubrió que cambiaba monedas reales por falsas para pagar en secreto a su hija (Pagliacci), de quien fue padre ausente.
+- Lo que parece: asesinato en medio del caos, con indicios que apuntan a conspiración del monje hereje (nota arrugada en la mano) o a una bruja/pseudomaga (taza de té con hierbas sospechosas).
+- Lo que realmente pasó: Garrick, intendente del gremio, se adelantó antes de la alarma, generó la confusión y separó a Arvel para matarla en el cuarto de armarios. Luego sembró falsas pistas: la nota “del monje”, restos de belladona del jardín (para incriminar a Hortensia), y una taza de té con hierbas asociadas a Hortensia. Su móvil es financiero: Arvel descubrió que cambiaba monedas reales por falsas para pagar en secreto a su hija (Pagliacci), de quien fue padre ausente.
 
 3. Personajes (uno por jugador)
 (14 jugadores; Arvel es jugable en Acto I. Tras el asesinato, ese jugador revela “recuerdos” de Arvel mediante notas del GM.)
 
-1) Arvel Blackwell
+1) Arvel Blackwell - Arlett
 - Rol público: Maestra del gremio, aventurera legendaria.
 - Relación con la víctima: Es la víctima.
 - Personalidad y habla: Autoritaria, mordaz, con humor seco; habla como quien dicta sentencia.
 - Secretos: Tenía pruebas de malversación; guardaba secretos íntimos de varios asistentes para mantener control.
+- Confesión (Arvel lo sabía): Estaba dispuesta a usar chantaje para mantener su poder en el gremio.
 - Objetivo: En Acto I, tantear reacciones y aislar al ladrón.
 - Información solo suya: Conoce que el desfalco incluye monedas falsas y transferencias “caritativas” a alguien anónimo.
 
-2) Garrick Hollowell (asesino)
+2) Garrick Hollowell (asesino) - Eugeni
 - Rol público: Intendente del gremio (finanzas y suministros).
-- Relación con Arvel: Tensa; ella lo fiscalizaba.
+- Relación con Arvel: Confrontación directa por dinero; Arvel descubrió el desfalco y lo citó esa noche.
 - Personalidad y habla: Serio, metódico, “voz de contador”, evasivo bajo presión.
 - Secretos: Malversó fondos cambiando monedas reales por falsas. Pagó en secreto a su hija, Pagliacci.
+- Confesión (Arvel lo sabía): Falsificó registros y usó sellos del gremio para ocultar el desfalco.
 - Objetivo: Desviar sospechas, sostener coartada y destruir rastros contables.
 - Información solo suya: Sabe dónde ocultó el libro de cuentas manipulado.
-- Coartada falsa: Durante el apagón “ayudó a apagar un incendio menor en cocina” con Curtis y Dicky.
+- Coartada falsa: “Estaba en el baño cuando sonó la alarma; salí con todos”.
 - Acciones que lo incriminan sutilmente: Conoce mejor que nadie el acceso a la oficina y el horario de guardia.
 
-3) Pagliacci la Inapropiada
+3) Pagliacci la Inapropiada - Cris
 - Rol público: Juglaresa del caos.
-- Relación con Arvel: Cree que Arvel es su madre secreta.
+- Relación con Arvel: Cree que Arvel es su madre por las donaciones selladas con el símbolo del gremio.
 - Personalidad y habla: Hipérbole y chistes fuera de lugar; rompe tensiones con humor.
 - Secretos: Recibe donaciones anónimas desde hace años.
+- Confesión (Arvel lo sabía): Abrió cartas del gremio buscando pistas sobre su origen.
 - Objetivo: Descubrir su origen real sin perder el escenario.
-- Información solo suya: Recibió una carta de “benefactor” con sellos de la intendencia.
+- Información solo suya: Un día llegó una donación con un sello distinto, una “P” de Garrick Paglio; la confusión la empuja a buscar a Arvel. El monje, cuando aún era monje, vio cómo la dejaban recién nacida en la escuela de payasos.
 
-4) Donato “Don Nadie” Delirium
+4) Donato “Don Nadie” Delirium - Jordi
 - Rol público: Detective del Gremio de Deducciones Dubitativas™.
 - Relación con Arvel: Ella toleraba su “investigación” porque a veces acierta.
 - Personalidad y habla: Habla en tercera persona; salta entre dos personalidades.
-- Secretos: Cree que Garrick lo sigue; tiene un croquis involuntario de rutas internas.
-- Objetivo: “Resolver” el caso aunque no sepa cuál.
-- Información solo suya: Vio a alguien salir de la oficina segundos antes del apagón: un abrigo con polvo de metal (de la forja).
+- Secretos: Cree que Arvel “mató” a su otra personalidad y que Garrick le robó la venganza.
+- Confesión (Arvel lo sabía): Se coló en el archivo del gremio para “investigar” y robó un mapa interno.
+- Objetivo: “Resolver” el caso para ajustar cuentas con quien le quitó su verdad.
+- Información solo suya: Tiene un croquis mental de rutas internas y recuerda a un intendente entrando al cuarto de armarios justo antes de la alarma.
 
-5) Hortensia Espinaviva
+5) Hortensia Espinaviva - Mónica
 - Rol público: Jardinera del gremio.
-- Relación con Arvel: Confidente ocasional; Arvel sospechaba que “no era solo jardinera”.
+- Relación con Arvel: Confidente ocasional; sospecha que Arvel le borró la memoria en el pasado.
 - Personalidad y habla: Suave, preguntas inocentes, mirada calculadora.
 - Secretos: Espía del gobierno; reporta sobre el gremio.
+- Confesión (Arvel lo sabía): Enviaba informes secretos al gobierno usando la correspondencia del gremio.
 - Objetivo: Evitar que su identidad sea expuesta.
 - Información solo suya: Faltan plantas de belladona en su jardín, cortadas con guantes.
 
-6) Puntifina Cruentacorte
+6) Puntifina Cruentacorte - Unai
 - Rol público: Herrera de dagas.
-- Relación con Arvel: Forjó la daga ornamentada que fue regalo para ella.
+- Relación con Arvel: Enfadada porque Arvel dejó su daga en manos de Selaliao y la desgastó.
 - Personalidad y habla: Dramática, poética del acero.
-- Secretos: Forjó una réplica casi idéntica hace meses por “encargo especial”.
-- Objetivo: Probar que su arte no es culpable; vender prestigio.
+- Secretos: Se llevó la daga a reparar y a echarle la bronca a Arvel, sin saber que Garrick mandó replicarla para matar.
+- Confesión (Arvel lo sabía): Hizo una réplica por encargo sin registrar el trabajo en el gremio.
+- Objetivo: Probar que su arte no es culpable y limpiar su nombre.
 - Información solo suya: La daga homicida tiene una muesca que no estaba en la original.
 
-7) Sybilla Croquetatré™
+7) Sybilla Croquetatré™ - Andrea
 - Rol público: “Vidente” charlatana.
 - Relación con Arvel: Arvel la toleraba por entretener a clientes.
 - Personalidad y habla: Exagerada, mística falsa.
-- Secretos: Vende “pociones” que son infusiones ordinarias.
+- Secretos: Lleva tiempo vendiendo pócimas falsas a Arvel y teme que se sepa.
+- Confesión (Arvel lo sabía): No tiene poderes reales y todo es un montaje.
 - Objetivo: No ser descubierta como fraude.
-- Información solo suya: Reconoce el olor de su “poción” derramada en la escena… pero el frasco no es suyo.
+- Información solo suya: Lleva una lista de clientes; Garrick compró una pócima calmante.
 
-8) Curtis Crowbane
+8) Curtis Crowbane - Borja
 - Rol público: Bardo.
 - Relación con Arvel: Tocaba en eventos del gremio.
 - Personalidad y habla: Rima sin querer, melodramático.
 - Secretos: Le debía dinero a Arvel.
+- Confesión (Arvel lo sabía): Infló gastos de conciertos para cubrir su deuda.
 - Objetivo: Evitar que salga a la luz su deuda.
-- Información solo suya: Durante el apagón oyó pasos suaves hacia la oficina, no botas pesadas.
+- Información solo suya: Reconoce números reales tachados y sustituidos en las cuentas.
 
-9) Sir Tórrido de Afán (Dicky)
+9) Sir Tórrido de Afán (Dicky) - Víctor
 - Rol público: Caballero errante.
-- Relación con Arvel: Relación íntima secreta.
+- Relación con Arvel: Arvel lo vio una noche salir con el monje y darse el lote; teme que su secreto se revele, aunque todo el mundo lo sospecha.
 - Personalidad y habla: Grandilocuente, romántico y trágico.
-- Secretos: Estaba con Arvel poco antes del apagón; discutieron.
+- Secretos: Estaba con Arvel poco antes de la alarma; discutieron.
+- Confesión (Arvel lo sabía): Tuvo un lío con Tripón y teme perder su honor.
 - Objetivo: Proteger su reputación y su relación.
-- Información solo suya: Arvel le dijo “esta noche se acaba el juego del tesoro”.
+- Información solo suya: Arvel le dijo “esta noche se acaba el juego del tesoro”. 
 
-10) Dimblegomper “Dimby” DeFloomen
+10) Dimblegomper “Dimby” DeFloomen - Pol
 - Rol público: Gnomo maldito en cuerpo joven.
-- Relación con Arvel: Buscaba ayuda para su maldición.
+- Relación con Arvel: Guarda rencor porque le prometió devolverlo a su forma de gnomo y nunca cumplió.
 - Personalidad y habla: Sarcástico, chistes malos, ingenioso.
 - Secretos: Robó ingredientes del almacén para un experimento.
+- Confesión (Arvel lo sabía): Provocó un pequeño incendio en el almacén tapado por el gremio.
 - Objetivo: Conseguir ayuda mágica (o científica) a cambio de información.
-- Información solo suya: Vio a Garrick manipulando las velas “antes de que todo se apagara”.
+- Información solo suya: Vio a Garrick preparando la confusión antes de que sonara la alarma.
 
-11) Sela Liao (Selaliao)
+11) Sela Liao (Selaliao) Katherine
 - Rol público: Niña inquietante.
-- Relación con Arvel: Mascota del gremio; Arvel la protegía.
+- Relación con Arvel: Mascota del gremio; Arvel la protegía y Selaliao cree que Arvel es inocente.
 - Personalidad y habla: Frases cortas, sonrisas raras.
 - Secretos: Tiene un cuchillo pequeño y trofeos de “juegos”.
+- Confesión (Arvel lo sabía): Robó pequeñas cosas de la oficina de Arvel (pulseras, sellos).
 - Objetivo: Conseguir un “objeto bonito” de la oficina.
-- Información solo suya: Vio una nota con sello del intendente en el bolsillo de Arvel (antes del asesinato).
-
+- Información solo suya: Tiene la pulsera de Arvel y un dibujo torpe de la escena.
+- Pistas: lleva un cuchillo con iniciales S.L.; Garrick planta una daga con S.L. pero sin la firma de Puntifina. Selaliao dibuja escenas macabras y no reacciona ante la muerte. Entra al despacho a robar una pulsera.
 12) Sir Cumferencia del Corchete Perdido
 - Rol público: Noble caído, erudito pesado.
 - Relación con Arvel: Ella lo usaba como bibliotecario “gratis”.
 - Personalidad y habla: Corrige y cita.
 - Secretos: Tiene acceso a archivos y libros de cuentas.
+- Confesión (Arvel lo sabía): Vendió copias de archivos del gremio para pagar deudas.
 - Objetivo: Recuperar prestigio demostrando su intelecto.
 - Información solo suya: Descubrió discrepancias contables “muy elegantes” en el libro mayor.
 
 13) Fray Tripón del Mosto
 - Rol público: Monje hereje.
-- Relación con Arvel: Expulsado por ella.
+- Relación con Arvel: Expulsado por ella; guarda rencor por la expulsión.
 - Personalidad y habla: Borracho, profético, mezcolanza de verdad y delirio.
-- Secretos: Vino a chantajear a Arvel por un secreto del gremio.
-- Objetivo: Venganza simbólica… o perdón.
+- Secretos: Guarda pruebas de que Arvel pactó con la iglesia para inventar “misiones de demonios” y quedarse con recompensas.
+- Confesión (Arvel lo sabía): Intentó chantajear a Arvel con ese secreto.
+- Objetivo: Jurar exponer los trapos sucios de Arvel y arruinar su legado.
 - Información solo suya: La nota “incriminatoria” no es su letra: tiene faltas ortográficas que él no cometería.
 
-14) Naldopoulos
-- Rol público: Auditor del gremio “temporal”, en realidad cobrador de impuestos del reino.
-- Relación con Arvel: Negociaba una auditoría oficial; Arvel lo detestaba.
-- Personalidad y habla: Cortés, clínico, con humor frío.
-- Secretos: Tiene copia parcial de registros y sabe que hubo monedas falsas.
-- Objetivo: Asegurar pruebas sin quedar implicado.
-- Información solo suya: Reconoce la marca de acuñación falsa y la relaciona con el proveedor de Garrick.
+14) Rey Naldopoulos el Usurpado
+- Rol público: Autoproclamado monarca en el exilio; en la taberna “limpia mesas” y da discursos.
+- Relación con Arvel: Arvel le daba asilo por diversión y porque sus “profecías” entretenían a la clientela.
+- Personalidad y habla: Desconfiado, teatral, habla en tercera persona y ve conspiraciones en todo.
+- Secretos: Nadie confirma su reino; escribe cartas a sí mismo como “Rey Emérito”.
+- Confesión (Arvel lo sabía): Forjó mapas y sellos para “probar” su reino inexistente.
+- Objetivo: Sospechar de todos y sumar aliados a su “causa”.
+- Información solo suya: Cree reconocer símbolos “reales” en documentos del gremio y está convencido de que alguien falsifica mapas y sellos. Además, guarda “objetos protegidos” como los guantes perdidos.
+- Acto 2: No para de confesar que fue él e inventa teorías sobre cómo dejó las pistas; cree que estar encerrado lo mantendrá a salvo del “verdadero conspirador”. Es el personaje trol para distraer.
+
+Relaciones clave (para el GM)
+- Arvel es el centro: guardaba secretos y tenía poder sobre casi todos.
+- Garrick y Arvel: confrontación por dinero; él la mata para ocultar el desfalco.
+- Pagliacci y Arvel: cree que es su madre por las donaciones; la “P” de Garrick rompe su certeza.
+- Donato y Arvel: cree que Arvel “mató” su otra personalidad; Garrick le robó la venganza.
+- Puntifina y Arvel: enfadada por el desgaste de la daga entregada a Selaliao; no sabe de la réplica.
+- Selaliao y Arvel: cree que Arvel es inocente; vínculo protector.
+- Dimby y Arvel: rencor por promesa incumplida de desmaldecirlo.
+- Hortensia y Arvel: sospecha que Arvel le borró la memoria.
+- Curtis y Arvel: deuda económica por conciertos.
+- Dicky y Arvel: teme que revele su lío con el monje hereje.
+- Sybilla y Arvel: miedo a que descubran sus pócimas falsas.
+- Tripón y Arvel: rencor por la expulsión y por los trapos sucios con la iglesia.
+- Naldopoulos: sospecha de todos y ve conspiraciones en el gremio.
+- Sir Cumferencia: vínculos académicos y acceso a los libros de cuentas.
+
+Relaciones entre jugadores
+- Pagliacci y Selaliao: rivalidad por el “puesto” de hija favorita de Arvel.
+- Dicky y Tripón: lío secreto; Dicky teme que Tripón lo exponga.
+- Curtis y Sybilla: alianza de charlatanes; se cubren mutuamente cuando exageran.
+- Puntifina y Selaliao: tensión por la daga desgastada y por las iniciales S.L.
+- Donato y Garrick: Donato cree que Garrick le robó la venganza contra Arvel.
+- Dimby y Hortensia: intercambio de favores (ingredientes/planta) con sospechas cruzadas.
+- Naldopoulos y Sir Cumferencia: discusión constante por “la verdad” de los mapas y los hechos.
+- Pagliacci y Curtis: pareja artística improvisada; él la impulsa a buscar a Arvel.
+
+Misiones Acto 1 (al cumplirlas, desbloquean su pista del Acto 2)
+- Arvel: Conversar a solas con Garrick y dejarle caer que tiene pruebas.
+- Garrick: Provocar la alarma de incendio y salir el último con Arvel.
+- Pagliacci: Descubrir quién en la taberna se apellida o se llama con “P”.
+- Donato: Lograr que Garrick abra el despacho o le permita ver el libro de cuentas.
+- Hortensia: Ofrecer té a Arvel y dejar su taza con hierbas en la zona común.
+- Puntifina: Repartir su tarjeta con su firma y conseguir un cliente; su firma solo aparece en la daga original.
+- Sybilla: Vender una “poción” a al menos dos personas sin ser desenmascarada.
+- Curtis: Lograr que alguien le perdone parte de su deuda con Arvel o le prometa una actuación.
+- Dicky: Evitar que Tripón mencione su lío en público.
+- Dimby: Conseguir que Sybilla lo apunte en su lista de clientes para “volver a ser gnomo”.
+- Selaliao: Robar una pulsera de Arvel.
+- Sir Cumferencia: Conseguir que alguien lo llame “maestro” o reconozca su saber.
+- Tripón: Gritar que el mundo acabará cuando salgan por la alarma.
+- Naldopoulos: Hacer jurar lealtad al “Reino” a al menos una persona.
 
 4. Pistas
+(Las pistas se entregan en una breve pausa justo al descubrir el cuerpo: el GM reparte un sobre por jugador. La tarjeta/llave del despacho aparece más adelante, para el Acto 2.)
+
+Ritmo de revelación recomendado
+- Escena del cuerpo: daga con S.L. sin firma, nota falsa del monje, taza de té con hierbas, restos de belladona.
+- Sobres personales: pistas blandas o de contexto (coartadas, sellos, sospechas).
+- Mitad del Acto 2: aparece la tarjeta/llave del despacho de Garrick.
+- Despacho de Garrick: guantes con tierra, libro mayor y evidencias de monedas falsas.
 (Pistas físicas, verbales y circunstanciales; incluye falsos indicios y conexiones.)
 
 Pistas físicas
-- Daga ornamentada con muesca
-  - Quién puede descubrir: Puntifina, Sir Cumferencia.
-  - Conecta: La muesca no estaba en la original → arma fue usada recientemente o es réplica.
-  - Red herring parcial: Apunta a Puntifina, pero en realidad evidencia que alguien accedió a su taller.
+- Daga ornamentada con S.L
+  - Quién puede descubrir: Puntifina identifica su firma; Selaliao reconoce las iniciales.
+  - Conecta: Todos saben que Puntifina firma sus dagas; la daga plantada tiene S.L. pero no su firma, lo que apunta a una réplica.
+  - Red herring parcial: Apunta a Selaliao por las iniciales.
 
 - Nota “del monje hereje” en el bolsillo de Arvel
   - Quién: Tripón, Donato.
@@ -141,26 +216,22 @@ Pistas físicas
 
 - Restos de belladona del jardín
   - Quién: Hortensia, Dimby.
-  - Conecta: Cortes limpios con guantes; Hortensia niega haberlos usado esa noche.
+  - Conecta: Cortes limpios con guantes; Hortensia niega haberlos usado esa noche; en el despacho de Garrick hay unos guantes con tierra.
   - Red herring: Incrimina a la jardinera.
 
-- Frasco con “poción” de incienso
-  - Quién: Sybilla, Curtis.
-  - Conecta: El olor coincide con su “poción”, pero el frasco no es suyo.
-  - Red herring: Incrimina a Sybilla.
+- Taza de té vacía con hierbas
+  - Quién: Hortensia, Dimby.
+  - Conecta: Las hierbas son de las infusiones que le encantan a Hortensia, pero no son venenosas.
+  - Red herring: Sugiere envenenamiento falso y apunta a la jardinera.
 
 Pistas verbales
 - Arvel dijo “esta noche se acaba el juego del tesoro”
   - Quién: Dicky.
   - Conecta: Indica que Arvel iba a exponer un fraude financiero.
 
-- Pagliacci recibió cartas anónimas con sello de intendencia
-  - Quién: Pagliacci, Naldopoulos.
-  - Conecta: Relaciona dinero desviado con Garrick.
-
-- Curtis oyó pasos suaves
-  - Quién: Curtis.
-  - Conecta: El asesino no llevaba armadura pesada.
+- Pagliacci identifica “G. Paglio” en una hoja arrancada de cuentas
+  - Quién: Pagliacci.
+  - Conecta: Relaciona el sello “P” y el nombre Paglio con Garrick.
 
 Pistas circunstanciales
 - Libro mayor con discrepancias elegantes
@@ -168,14 +239,34 @@ Pistas circunstanciales
   - Conecta: La malversación es real y sistemática.
 
 - Monedas falsas
-  - Quién: Naldopoulos.
+  - Quién: Se encuentran en el despacho de Garrick.
   - Conecta: Señalan a la intendencia (Garrick).
 
-- Garrick sabía el momento exacto del apagón
-  - Quién: Dimby (lo vio manipular velas).
+- Garrick sabía el momento exacto de la alarma
+  - Quién: Dimby (lo vio preparar la confusión antes de que sonara).
   - Conecta: Oportunidad premeditada.
 
+- Tarjeta/llave del despacho de Garrick
+  - Quién: Puede aparecer durante la búsqueda del cuerpo o en un bolsillo equivocado.
+  - Conecta: Permite acceder a guantes con tierra y al libro de cuentas manipulado.
+
+Pistas por personaje (entregadas en sobres al descubrir el cuerpo)
+- Arvel: En su escritorio hay un borrador de acusación contra Garrick con cifras exactas.
+- Garrick: Ofrece una coartada conveniente (“estaba en el baño”) y nombra testigos dudosos.
+- Pagliacci: Encuentra una hoja arrancada del libro de cuentas firmada “G. Paglio”.
+- Donato: Recuerda haber visto a un intendente entrar al cuarto de armarios segundos antes de la alarma.
+- Hortensia: Sus guantes desaparecieron; si se mencionan, sabe que pudieron usarse en el crimen.
+- Puntifina: La daga original lleva su firma; la daga plantada no la tiene.
+- Sybilla: En su lista de clientes aparece Garrick; compró una pócima calmante, no veneno.
+- Curtis: Reconoce números reales tachados y sustituidos en el libro oficial.
+- Dicky: Arvel le confesó que “esta noche se acaba el juego del tesoro”.
+- Dimby: Vio a Garrick hablando de “crear confusión” y oyó pasos suaves.
+- Selaliao: No sabe escribir; tiene la pulsera de Arvel y un dibujo torpe de la escena.
+- Sir Cumferencia: Detectó discrepancias “elegantes” en los libros, con firma de intendencia.
+- Tripón: Guarda pruebas del pacto de Arvel con la iglesia para misiones falsas de demonios.
+- Naldopoulos: Tiene los guantes con tierra; dice que los guardó para protegerlos.
+
 Conexiones clave
-- Malversación → cartas a Pagliacci → sello de intendencia → Garrick.
-- Daga ornamentada + muesca + acceso a forja → arma “prestada” o réplica → Garrick conoce el inventario.
-- Nota falsa + belladona + frasco de “poción” → montaje de red herrings, demasiado conveniente.
+- Malversación → hoja firmada “G. Paglio” + sello “P” → Garrick.
+- Daga con S.L pero sin firma de Puntifina → réplica → Garrick plantó el arma.
+- Nota falsa + belladona + té de hierbas → montaje de red herrings, demasiado conveniente.
